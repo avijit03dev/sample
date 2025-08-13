@@ -3,7 +3,7 @@
 function greet() {
     console.log("Hello,Avijit");
 }
-greet()
+greet() 
 
 // Function with Parameters
 
